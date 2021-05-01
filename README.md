@@ -24,4 +24,10 @@ SEGUEM PASSOS PARA O DESAFIO 1
 7 - Exibir os dados do back-end 	
 	localhost:8081/modulos
 
-Observação: O código fonte do back-end e front-end estão nas pastas '/listmod/back-end/listmod' e '/listmod/front-end/listmod' respectivamente.
+Observações: 
+
+1 - O código fonte do back-end e front-end estão nas pastas '/listmod/back-end/listmod' e '/listmod/front-end/listmod' respectivamente.
+
+2 - Link para as imagens do Docker Hub:
+	https://hub.docker.com/repository/docker/pfbarbosa/back-end
+	https://hub.docker.com/repository/docker/pfbarbosa/front-end
